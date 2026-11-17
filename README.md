@@ -43,6 +43,3 @@ Keep `image.jpg` in the same folder. The output is saved as `pencil_sketch.jpg`.
 - Python
 - OpenCV (cv2)
 - NumPy
-
-## Author
-*
